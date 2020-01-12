@@ -53,7 +53,7 @@ const AboutPage = (props, context) => {
           </div>
         </div>
       </div>
-      <ScrollToNext pageSelector=".portfolio-page" />
+      {/* <ScrollToNext pageSelector=".portfolio-page" /> */}
     </div>
   );
 };
