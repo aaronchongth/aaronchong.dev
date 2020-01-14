@@ -1,0 +1,32 @@
+baseURL = "https://aaronchong.dev/"
+languageCode = "en-us"
+title = "Aaron Chong"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Aaron"
+    lastName = "Chong"
+    address = "Singapore"
+    phone = "1-555-555-1234"
+    contactNote = "Robotics Software Engineer"
+    profileImage = "img/bw.jpg"
+    email = "aaronchongth@gmail.com"
+    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    favicon = "/favicon.ico"
+    # what sections
+    showSkills = false
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = false
+    showEducation = false
+
+    showQr = false
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/aaronchongth/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/aaronchongth/"
