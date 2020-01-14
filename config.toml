@@ -1,6 +1,6 @@
-baseURL = "https://example.com/"
+baseURL = "https://aaronchong.dev/"
 languageCode = "en-us"
-title = "Eddie Webb"
+title = "Aaron Chong"
 theme = "hugo-resume"
 
 [params]
