@@ -9,5 +9,10 @@ outputs:
 - rss
 - json
 ---
-<!-- <p>Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.</p> -->
-<p>Testing testing bio summary</p>
+
+Hello there! My name is Aaron, and I am a software engineer at the Open Source Robotics Foundation.
+
+I am very fond of topics in math, computer science, machine vision & learning, especially in the field of robotics. 
+
+In my free time, I like to start new projects, learn new things, read books, or swing my tennis racquet around.
+
