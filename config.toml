@@ -20,7 +20,7 @@ publishDir = "docs"
     showProjects = false
     showOpenSource = false
     showPublications = true
-    showExperience = false
+    showExperience = true
     showEducation = true
 
     showQr = true
