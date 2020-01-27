@@ -16,7 +16,7 @@ publishDir = "docs"
     summary = "Testing testing the summary."
     favicon = "/favicon.ico"
     # what sections
-    showSkills = false
+    showSkills = true
     showProjects = false
     showOpenSource = false
     showPublications = true
@@ -24,6 +24,8 @@ publishDir = "docs"
     showEducation = true
 
     showQr = true
+
+    color_theme = "ocean"
 
 [[params.handles]]
     name = "LinkedIn"
