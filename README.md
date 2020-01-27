@@ -29,3 +29,7 @@ hugo -D
 ```
 
 Commit normally and handle merging into `master`.
+
+## Credits
+
+Hugo theme `hugo-resume` by Eddie A. Webb
