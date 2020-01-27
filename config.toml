@@ -21,9 +21,9 @@ publishDir = "docs"
     showOpenSource = false
     showPublications = true
     showExperience = false
-    showEducation = false
+    showEducation = true
 
-    showQr = false
+    showQr = true
 
 [[params.handles]]
     name = "LinkedIn"

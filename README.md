@@ -4,10 +4,20 @@
 
 Install `hugo` using `snap`.
 
+```bash
+snap install hugo
+```
+
+Clone the repository recursively to get the theme
+
+```bash
+git clone ssh://git@github.com/aaronchongth/aaronchong.dev --recursive
+```
+
 ## Testing Locally
 
 ```bash
-hugo -t hugo-resume --themesDir ./themes server
+hugo server --disableFastRender
 ```
 
 ## Building and deploying
