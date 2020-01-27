@@ -19,7 +19,7 @@ publishDir = "docs"
     showSkills = false
     showProjects = false
     showOpenSource = false
-    showPublications = false
+    showPublications = true
     showExperience = false
     showEducation = false
 

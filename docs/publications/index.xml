@@ -6,19 +6,36 @@
     <description>Recent content in Publications on Aaron Chong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aaronchong.dev/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>https://aaronchong.dev/publications/alldaydevops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Variable Stiffness Spring Actuators for Low-Energy-Cost Human Augmentation</title>
+      <link>https://aaronchong.dev/publications/variablestiffness/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aaronchong.dev/publications/alldaydevops/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
- Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+      <guid>https://aaronchong.dev/publications/variablestiffness/</guid>
+      <description>Theoretical studies suggest and experimental evidence confirms that maintaining and changing human joint stiffness by coactivated antagonistic muscles are metabolically expensive, even if muscles do not perform net mechanical work. Based on this observation, we posit that effective human augmentation can be achieved by actuators operated in parallel to human joints, even if these actuators only supplement joint stiffness without doing net mechanical work. In this article, we present a prototype variable-length leaf-spring actuator capable of large-range stiffness modulation.</description>
+    </item>
+    
+    <item>
+      <title>Stiffness Modulator: A Novel Actuator for Human Augmentation </title>
+      <link>https://aaronchong.dev/publications/stiffnessmodulator/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronchong.dev/publications/stiffnessmodulator/</guid>
+      <description>Stiffness modulators are devices that promote a novel means of actuation; they provide stiffness modulation without deliberately doing mechanical work. These type of compliant actuators may be used for human augmentation to complement co-contracted antagonistic muscles and as such reduce muscle activity and metabolic energy cost. Despite the theoretical appeal of this concept, its implementation remains elusive in practical applications. This is particularly true for human augmentation which requires a portable stiffness modulator.</description>
+    </item>
+    
+    <item>
+      <title>Analytical conditions for the design of variable stiffness mechanisms </title>
+      <link>https://aaronchong.dev/publications/analyticaldesign/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronchong.dev/publications/analyticaldesign/</guid>
+      <description>This paper introduces an analytical approach for the design of variable stiffness mechanisms. The basis of this approach is a general model - representing the potential energy function and the physical constraints - covering the design space of variable stiffness mechanisms. Using this model, we present a systematic procedure to analytically define classes of variable stiffness mechanisms from first principles. Consequently, we identify mechanisms capable of infinite range stiffness modulation using bounded motor forces, and define the simplest mathematical model representing mechanisms in this class.</description>
     </item>
     
   </channel>

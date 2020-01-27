@@ -19,8 +19,20 @@
   </url>
   
   <url>
-    <loc>https://aaronchong.dev/publications/alldaydevops/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>https://aaronchong.dev/publications/variablestiffness/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaronchong.dev/publications/stiffnessmodulator/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaronchong.dev/publications/analyticaldesign/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url>
   
@@ -32,6 +44,67 @@
   <url>
     <loc>https://aaronchong.dev/projects/contributions/schema-org/</loc>
     <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaronchong.dev/tags/compliant-joint/mechanism/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronchong.dev/tags/human-performance-augmentation/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronchong.dev/tags/human-robot-interaction/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronchong.dev/tags/mechanism-design/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronchong.dev/publications/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaronchong.dev/tags/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronchong.dev/tags/actuators/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronchong.dev/tags/biomechanics/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronchong.dev/tags/elastic-constants/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronchong.dev/tags/medical-robotics/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronchong.dev/tags/muscle/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronchong.dev/tags/portable-instruments/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -80,11 +153,6 @@
   </url>
   
   <url>
-    <loc>https://aaronchong.dev/tags/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aaronchong.dev/tags/xml/xslt/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url>
@@ -96,34 +164,28 @@
   </url>
   
   <url>
-    <loc>https://aaronchong.dev/tags/agile/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>https://aaronchong.dev/tags/analytical-models/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aaronchong.dev/tags/ci/cd-pipelines/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>https://aaronchong.dev/tags/bounded-motor-forces/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aaronchong.dev/tags/continuous-delivery/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>https://aaronchong.dev/tags/infinite-range-stiffness-modulation/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aaronchong.dev/tags/continuous-integration/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>https://aaronchong.dev/tags/potential-energy/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aaronchong.dev/tags/culture/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronchong.dev/publications/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0.6</priority>
+    <loc>https://aaronchong.dev/tags/variable-stiffness-mechanisms/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>

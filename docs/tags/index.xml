@@ -6,10 +6,100 @@
     <description>Recent content in Tags on Aaron Chong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aaronchong.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Compliant joint/mechanism</title>
+      <link>https://aaronchong.dev/tags/compliant-joint/mechanism/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronchong.dev/tags/compliant-joint/mechanism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human performance augmentation</title>
+      <link>https://aaronchong.dev/tags/human-performance-augmentation/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronchong.dev/tags/human-performance-augmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-robot Interaction</title>
+      <link>https://aaronchong.dev/tags/human-robot-interaction/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronchong.dev/tags/human-robot-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanism Design</title>
+      <link>https://aaronchong.dev/tags/mechanism-design/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronchong.dev/tags/mechanism-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actuators</title>
+      <link>https://aaronchong.dev/tags/actuators/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronchong.dev/tags/actuators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomechanics</title>
+      <link>https://aaronchong.dev/tags/biomechanics/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronchong.dev/tags/biomechanics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastic Constants</title>
+      <link>https://aaronchong.dev/tags/elastic-constants/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronchong.dev/tags/elastic-constants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Robotics</title>
+      <link>https://aaronchong.dev/tags/medical-robotics/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronchong.dev/tags/medical-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muscle</title>
+      <link>https://aaronchong.dev/tags/muscle/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronchong.dev/tags/muscle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portable Instruments</title>
+      <link>https://aaronchong.dev/tags/portable-instruments/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronchong.dev/tags/portable-instruments/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Atlassian Ecosystem</title>
@@ -21,7 +111,7 @@
     </item>
     
     <item>
-      <title>bash/shell</title>
+      <title>Bash/Shell</title>
       <link>https://aaronchong.dev/tags/bash/shell/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
@@ -66,7 +156,7 @@
     </item>
     
     <item>
-      <title>python</title>
+      <title>Python</title>
       <link>https://aaronchong.dev/tags/python/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
@@ -93,47 +183,47 @@
     </item>
     
     <item>
-      <title>agile</title>
-      <link>https://aaronchong.dev/tags/agile/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Analytical Models</title>
+      <link>https://aaronchong.dev/tags/analytical-models/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://aaronchong.dev/tags/agile/</guid>
+      <guid>https://aaronchong.dev/tags/analytical-models/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CI/CD pipelines</title>
-      <link>https://aaronchong.dev/tags/ci/cd-pipelines/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Bounded Motor Forces</title>
+      <link>https://aaronchong.dev/tags/bounded-motor-forces/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://aaronchong.dev/tags/ci/cd-pipelines/</guid>
+      <guid>https://aaronchong.dev/tags/bounded-motor-forces/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Continuous Delivery</title>
-      <link>https://aaronchong.dev/tags/continuous-delivery/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Infinite range stiffness modulation</title>
+      <link>https://aaronchong.dev/tags/infinite-range-stiffness-modulation/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://aaronchong.dev/tags/continuous-delivery/</guid>
+      <guid>https://aaronchong.dev/tags/infinite-range-stiffness-modulation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Continuous Integration</title>
-      <link>https://aaronchong.dev/tags/continuous-integration/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Potential Energy</title>
+      <link>https://aaronchong.dev/tags/potential-energy/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://aaronchong.dev/tags/continuous-integration/</guid>
+      <guid>https://aaronchong.dev/tags/potential-energy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Culture</title>
-      <link>https://aaronchong.dev/tags/culture/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Variable Stiffness Mechanisms</title>
+      <link>https://aaronchong.dev/tags/variable-stiffness-mechanisms/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://aaronchong.dev/tags/culture/</guid>
+      <guid>https://aaronchong.dev/tags/variable-stiffness-mechanisms/</guid>
       <description></description>
     </item>
     
