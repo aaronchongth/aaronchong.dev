@@ -32,4 +32,5 @@ Commit normally and handle merging into `master`.
 
 ## Credits
 
-Hugo theme `hugo-resume` by Eddie A. Webb
+* Hugo theme `hugo-resume` by Eddie A. Webb, which I copy instead of fork, due to changes I wanted to make to the theme. Will be looking into a forking solution soon.
+
