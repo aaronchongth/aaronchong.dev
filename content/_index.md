@@ -12,7 +12,7 @@ outputs:
 
 Hello there! My name is Aaron, and I am a software engineer at the Open Source Robotics Foundation.
 
-I am very fond of topics in math, computer science, machine vision & learning, especially in the field of robotics. 
+I am very fond of topics in math, computer science, machine learning & vision, especially in the field of robotics. 
 
-In my free time, I like to start new projects, learn new things, read books, or swing my tennis racquet around.
+In my free time, I like to start new projects, learn new things, read books, or swing my tennis racket around.
 
