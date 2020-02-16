@@ -8,12 +8,10 @@ publishDir = "docs"
     firstName = "Aaron"
     lastName = "Chong"
     address = "Singapore"
-    phone = "1-555-555-1234"
     contactNote = "Robotics Software Engineer"
     profileImage = "img/bw.jpg"
     email = "aaronchongth@gmail.com"
-    description = "Software Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
-    summary = "Testing testing the summary."
+    description = "Robotics Software Engineer"
     favicon = "/favicon.ico"
     # what sections
     showSkills = true
