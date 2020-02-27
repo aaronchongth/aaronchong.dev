@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PyTorch on Aaron Chong</title>
+    <link>https://aaronchong.dev/tags/pytorch/</link>
+    <description>Recent content in PyTorch on Aaron Chong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://aaronchong.dev/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VEGAN - Visual Enhancement GAN</title>
+      <link>https://aaronchong.dev/projects/creations/vegan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaronchong.dev/projects/creations/vegan/</guid>
+      <description>Visual Enhancement GAN is a generative adversarial network trained to deblur images to be used as data for high speed applications, specifically in the self driving domain. We built on the work of Kupyn et. al to improve multiscale performance, introduced training with Scaled Perceptual Loss, Smoothness Loss, as well as using a Random Scaled Cropaugmentation technique. Additionally we also introduced a Fourier Domain Error, as a way to better evaluate the performance of an image deblurring network.</description>
+    </item>
+    
+  </channel>
+</rss>

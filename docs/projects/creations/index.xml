@@ -6,36 +6,17 @@
     <description>Recent content in Creations on Aaron Chong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
 	<atom:link href="https://aaronchong.dev/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>BOSH release for Bamboo &amp; Remote Agents</title>
-      <link>https://aaronchong.dev/projects/creations/bosh-agents/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://aaronchong.dev/projects/creations/bosh-agents/</guid>
-      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip;is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&#39;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
-    </item>
-    
-    <item>
-      <title>Atlassian Marketplace Plugins</title>
-      <link>https://aaronchong.dev/projects/creations/marketplace/</link>
+      <title>VEGAN - Visual Enhancement GAN</title>
+      <link>https://aaronchong.dev/projects/creations/vegan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aaronchong.dev/projects/creations/marketplace/</guid>
-      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
-    </item>
-    
-    <item>
-      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>https://aaronchong.dev/projects/creations/docker-marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aaronchong.dev/projects/creations/docker-marketplace/</guid>
-      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace.Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+      <guid>https://aaronchong.dev/projects/creations/vegan/</guid>
+      <description>Visual Enhancement GAN is a generative adversarial network trained to deblur images to be used as data for high speed applications, specifically in the self driving domain. We built on the work of Kupyn et. al to improve multiscale performance, introduced training with Scaled Perceptual Loss, Smoothness Loss, as well as using a Random Scaled Cropaugmentation technique. Additionally we also introduced a Fourier Domain Error, as a way to better evaluate the performance of an image deblurring network.</description>
     </item>
     
   </channel>
